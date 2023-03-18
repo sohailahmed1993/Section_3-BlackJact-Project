@@ -79,3 +79,5 @@ function newCard() {
     }
 
 }
+
+// 18 march 2023 updated and tested 
