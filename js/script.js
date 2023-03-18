@@ -9,7 +9,7 @@ let hasBlackJack = false;
 let isAlive = false;
 let message = " ";
 
-console.log(cards);
+
 let playerEl = document.getElementById("player-el");
 playerEl.textContent = course.name + " : $ " + course.chips;
 
